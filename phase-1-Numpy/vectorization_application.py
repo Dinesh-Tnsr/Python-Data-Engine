@@ -18,7 +18,7 @@ print("crashed prices:",crashed_prices)
 position_values = crashed_prices*shares_owned
 print("portfolio values:",position_values)
 
-total_net_worth = sum(position_values)
+total_net_worth = np.sum(position_values)
 
 print("total net worth:",total_net_worth)
 
