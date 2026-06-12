@@ -1,0 +1,6 @@
+Timestamp,Server_ID,CPU_Load,Memory_Usage,Status
+2026-06-12 10:00,SRV-01,45.5,60.2,Active
+2026-06-12 10:05,SRV-02,88.1,95.0,Warning
+2026-06-12 10:10,SRV-01,47.0,61.5,Active
+2026-06-12 10:15,SRV-03,99.9,99.5,Critical
+2026-06-12 10:20,SRV-02,85.0,92.1,Warning
